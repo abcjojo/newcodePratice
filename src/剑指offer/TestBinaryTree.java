@@ -60,7 +60,7 @@ public class TestBinaryTree {
 
     }
 
-    ArrayList<ArrayList<Integer>> Print1(TreeNode pRoot) {
+    ArrayList<ArrayList<Integer>> Print1 (TreeNode pRoot) {
         ArrayList<ArrayList<Integer>> result = new ArrayList<>();
 
         if (pRoot == null)
